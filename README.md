@@ -51,7 +51,7 @@ This project analyzes the World Happiness Report data from 2015 to 2019, impleme
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone 'https://github.com/anniecorrea/WORKSHOP3.git'
 cd WORKSHOP3
 ```
 
@@ -95,7 +95,6 @@ The ETL (Extract, Transform, Load) process handles:
 
 ### Analysis Notebooks
 - **EDA.ipynb**: Exploratory analysis of happiness data
-- **ETL.ipynb**: Detailed ETL process documentation
 - **model_regresion.ipynb**: Regression analysis and predictions
 
 ## Usage
